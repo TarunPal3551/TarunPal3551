@@ -4,6 +4,7 @@
 
 ### Hey 👋🏽, I'm [Tarun Pal!]()  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TarunPal3551" alt="TarunPal3551" /> </p> 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 <br/>
@@ -20,14 +21,27 @@ Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Be
 
 **Languages and Tools:**   
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/vstatic/svg/888/888839.svg?token=exp=1610454449~hmac=820beef5ea0fbb2e88df8299d6d0c014"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1610454606~hmac=0cf0335ec78bba10125ff350a17beba1"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png"></code>
+<code><img height="40" src="https://cms-assets.tutsplus.com/uploads/users/1116/posts/24835/preview_image/mongodb-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://th.bing.com/th/id/OIP.JEKb3vltxtalPhYda59hNAHaHO?pid=Api&rs=1"></code>
 
 
-![Tarun github stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical)
 
+
+
+<a href="https://github.com/TarunPal3551/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical&count_private=true" />
+</a>
+
+
+<a href="https://github.com/rithik-dev/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical" />
+</a>
