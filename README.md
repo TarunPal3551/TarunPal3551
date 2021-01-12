@@ -1,25 +1,33 @@
-### Hi, I'm Tarun Pal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+[![Linkedin Badge](https://img.shields.io/badge/-TarunPal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-pal-079828140/)](https://www.linkedin.com/in/tarun-pal-079828140/) [![Twitter Badge](https://img.shields.io/badge/-@Tarun_pal_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tarun_pal_
+)](https://twitter.com/Tarun_pal_) [![Instagram Badge](https://img.shields.io/badge/-@apps_for_you_____-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/apps_for_you_____/)](https://www.instagram.com/apps_for_you_____/) 
+ 
 
-## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+### Hey 👋🏽, I'm [Tarun Pal!]()  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TarunPal3551" alt="TarunPal3551" /> </p> 
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Tarun Pal github stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+<br/>
 
-<!-- This section you create this variables that are used above -->
-[website]: 
-[twitter]: 
-[linkedin]: 
+Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Beside's Computer Science, I love traveliing. 
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently woking on Android.
+- 🌱 I’m currently learning Flutter and Node Js
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: tarunplay3551@gmail.com
+- 📝[Resume](https://drive.google.com/file/d/1Ij5WBjsgLgWmjR45MEIFPXBmBz-jD5Xd/view)
+
+**Languages and Tools:**   
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+[!Tarun github stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical)
+
