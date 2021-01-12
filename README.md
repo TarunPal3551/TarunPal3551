@@ -42,6 +42,6 @@ Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Be
 </a>
 <br>
 
-<a href="https://github.com/rithik-dev/">
+<a href="https://github.com/TarunPal3551/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical" />
 </a>
