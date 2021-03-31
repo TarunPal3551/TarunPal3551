@@ -22,7 +22,7 @@ Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Be
 **Languages and Tools:**   
 
 <code><img height="40" src="https://developer.android.com/guide/practices/ui_guidelines/images/NB_Icon_Mask_Shapes_Ext_02.gif"></code>
-<code><img height="40" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1610454606~hmac=0cf0335ec78bba10125ff350a17beba1"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Android_Studio_Icon_2020.svg/1200px-Android_Studio_Icon_2020.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
