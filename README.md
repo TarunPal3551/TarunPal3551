@@ -5,8 +5,7 @@
 ### Hey 👋🏽, I'm [Tarun Pal!]()  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TarunPal3551" alt="TarunPal3551" /> </p> 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-
+<img height="40" src="https://apnabillbook.com/img/logo_blue.png"></code>
 <br/>
 
 Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Beside's Computer Science, I love traveliing. 
@@ -22,7 +21,7 @@ Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Be
 **Languages and Tools:**   
 
 <code><img height="40" src="https://developer.android.com/guide/practices/ui_guidelines/images/NB_Icon_Mask_Shapes_Ext_02.gif"></code>
-<code><img height="40" src="https://apnabillbook.com/img/logo_blue.png"></code>
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
