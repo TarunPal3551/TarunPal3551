@@ -13,8 +13,8 @@ Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Be
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently woking on Android.
-- 🌱 I’m currently learning Flutter and Node Js
+- 👨🏽‍💻 I’m currently woking on Flutter.
+- 🌱 I’m currently learning Node Js and React
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: tarunplay3551@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1Ij5WBjsgLgWmjR45MEIFPXBmBz-jD5Xd/view)
