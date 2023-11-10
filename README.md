@@ -1,6 +1,11 @@
-[![Linkedin Badge](https://img.shields.io/badge/-TarunPal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-pal-079828140/)](https://www.linkedin.com/in/tarun-pal-079828140/) [![Twitter Badge](https://img.shields.io/badge/-@Tarun_pal_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tarun_pal_
-)](https://twitter.com/Tarun_pal_) [![Instagram Badge](https://img.shields.io/badge/-@apps_for_you_____-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/apps_for_you_____/)](https://www.instagram.com/apps_for_you_____/) 
- 
+[![Linkedin Badge](https://img.shields.io/badge/-TarunPal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-pal-079828140/)](https://www.linkedin.com/in/tarun-pal-079828140/) [![Instagram Badge](https://img.shields.io/badge/-@apps_for_you_____-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/apps_for_you_____/)](https://www.instagram.com/apps_for_you_____/) 
+</br>
+<h1>
+Currently working on Apna Billbook
+</h1>
+<a href="https://play.google.com/store/apps/details?id=app.apnabillbook.com">
+ <img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg" height="80" href="https://play.google.com/store/apps/details?id=app.apnabillbook.com"/>
+</a>
 
 ### Hey 👋🏽, I'm [Tarun Pal!]()  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TarunPal3551" alt="TarunPal3551" /> </p> 
