@@ -1,4 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-TarunPal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-pal-079828140/)](https://www.linkedin.com/in/tarun-pal-079828140/) [![Instagram Badge](https://img.shields.io/badge/-@apps_for_you_____-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/apps_for_you_____/)](https://www.instagram.com/apps_for_you_____/) 
+[![Instagram Badge](https://img.shields.io/badge/-@apnabillbook-0e7cf4?style=flat-square&labelColor=0e7cf4&logo=Instagram&logoColor=white&link=https://www.instagram.com/apnabillbook/)](https://www.instagram.com/apnabillbook/) 
 </br>
 <h1>
  <a href="https://play.google.com/store/apps/details?id=app.apnabillbook.com">
