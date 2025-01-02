@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding GIF">
+ 
+  ![TarunPal3551's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunPal3551&theme=radical)
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunPal3551&theme=radical)
+
 </p>
 
 <h1 align="center">Hi there, I'm Tarun Pal 👋</h1>
@@ -15,17 +23,6 @@
     <img src="https://img.shields.io/badge/Email-tarunplay3551%40gmail.com-red" alt="Email">
   </a>
 </p>
-
-## Links
-- **GitHub:** [https://github.com/TarunPal3551](https://github.com/TarunPal3551)
-
-  ![TarunPal3551's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunPal3551&theme=radical)
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunPal3551&theme=radical)
 
 
 ## Career Objective
