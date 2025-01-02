@@ -47,12 +47,6 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunPal3551&theme=radical)
 
 ---
-
-## 🌟 Career Objective
-Highly motivated and dedicated Android & Flutter Developer with over 4 years of experience in writing top-quality clean code for scalable business applications. Seeking opportunities for career growth through continuous learning, embracing new technologies, and contributing to the growth of an organization.
-
----
-
 ## 🚀 Play Store Apps
 - [Diksha](https://play.google.com/store/apps/details?id=...)
 - [Diksha Learning](https://play.google.com/store/apps/details?id=...)
@@ -65,6 +59,9 @@ Highly motivated and dedicated Android & Flutter Developer with over 4 years of 
 - [SS MultiService](https://play.google.com/store/apps/details?id=...)
 - [Exfresho](https://play.google.com/store/apps/details?id=...)
 
+---
+## 🌟 Career Objective
+Highly motivated and dedicated Android & Flutter Developer with over 4 years of experience in writing top-quality clean code for scalable business applications. Seeking opportunities for career growth through continuous learning, embracing new technologies, and contributing to the growth of an organization.
 ---
 
 ## 🎓 Education
