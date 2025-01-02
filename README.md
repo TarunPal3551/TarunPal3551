@@ -1,26 +1,65 @@
-[![Linkedin Badge](https://img.shields.io/badge/-TarunPal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-pal-079828140/)](https://www.linkedin.com/in/tarun-pal-079828140/) [![Instagram Badge](https://img.shields.io/badge/-@apps_for_you_____-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/apps_for_you_____/)](https://www.instagram.com/apps_for_you_____/) 
-[![Instagram Badge](https://img.shields.io/badge/-@apnabillbook-0e7cf4?style=flat-square&labelColor=0e7cf4&logo=Instagram&logoColor=white&link=https://www.instagram.com/apnabillbook/)](https://www.instagram.com/apnabillbook/) 
-</br>
-<h1>
- <a href="https://play.google.com/store/apps/details?id=app.apnabillbook.com">
-  Currently working on Apna Billbook
- </a>
-</h1>
-<a href="https://play.google.com/store/apps/details?id=app.apnabillbook.com">
- <img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg" height="80" href="https://play.google.com/store/apps/details?id=app.apnabillbook.com"/>
-</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding GIF">
+</p>
 
-### Hey 👋🏽, I'm [Tarun Pal!]()  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TarunPal3551" alt="TarunPal3551" /> </p> 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<br/>
+<h1 align="center">Hi there, I'm Tarun Pal 👋</h1>
 
-Hi, I'm Tarun Pal, a Mobile App Developer 🚀 from Gurugram, India currently.Beside's Computer Science, I love traveliing. 
+<p align="center">
+  <a href="https://github.com/TarunPal3551">
+    <img src="https://img.shields.io/github/followers/TarunPal3551?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/tarun-pal-079828140/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tarun%20Pal-blue" alt="LinkedIn">
+  </a>
+  <a href="mailto:tarunplay3551@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tarunplay3551%40gmail.com-red" alt="Email">
+  </a>
+</p>
+
+## Links
+- **GitHub:** [https://github.com/TarunPal3551](https://github.com/TarunPal3551)
+
+  ![TarunPal3551's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical)
   
-**Talking about Personal Stuffs:**
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical)
 
-- 👨🏽‍💻 I’m currently woking on Flutter.
-- 🌱 I’m currently learning Node Js and React
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: tarunplay3551@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1Ij5WBjsgLgWmjR45MEIFPXBmBz-jD5Xd/view)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunPal3551&theme=radical)
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunPal3551&theme=radical)
+
+
+## Career Objective
+Highly motivated and dedicated Android & Flutter Developer with over 5+ years of experience in writing top-quality clean code for scalable business applications. Seeking opportunities for career growth through continuous learning, embracing new technologies, and contributing to the growth of an organization.
+
+---
+
+## Key Skills
+- **Languages:** Java, Kotlin, Dart, C, C++, HTML, CSS, PHP, JavaScript, Node.js, React, Next.js
+- **Mobile Development:** Android, Flutter
+- **State Management:** BLOC, GetX, Provider
+- **Basic Knowledge:** Laravel, Codeigniter, Spring Boot
+- **Development Tools:** Git, Postman, Strapi
+- **Design Tools:** Figma, XD, Sketch
+- **Other Skills:** Accustomed to adapting to a fast-paced, changing environment
+
+---
+
+## Play Store Apps
+- [Apna Billbook](https://play.google.com/store/apps/details?id=...)
+- [Tara](https://play.google.com/store/apps/details?id=...)
+- [SS MultiService](https://play.google.com/store/apps/details?id=...)
+- [Indepay Payment SDK](https://play.google.com/store/apps/details?id=...)
+- [TFD - The Fuel Delivery](https://play.google.com/store/apps/details?id=...)
+- [Diksha](https://play.google.com/store/apps/details?id=...)
+- [Diksha Learning](https://play.google.com/store/apps/details?id=...)
+- [ALL4U](https://play.google.com/store/apps/details?id=...)
+- [Pondy Online Supermarket](https://play.google.com/store/apps/details?id=...)
+- [SS MultiService](https://play.google.com/store/apps/details?id=...)
+- [Exfresho](https://play.google.com/store/apps/details?id=...)
+- & 10+ Apps
+
+---
+
+## Education
+- **B.Tech (IT)** - Inderprastha Engineering College | Year of Completion: 2020
+- **10th & 12th** - G.C PUBLIC SCHOOL | Year of Completion: 2014 & 2016
