@@ -39,6 +39,14 @@
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 
 ---
+## 📊 GitHub Stats
+
+![TarunPal3551's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunPal3551&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunPal3551&theme=radical)
+
+---
 
 ## 🌟 Career Objective
 Highly motivated and dedicated Android & Flutter Developer with over 4 years of experience in writing top-quality clean code for scalable business applications. Seeking opportunities for career growth through continuous learning, embracing new technologies, and contributing to the growth of an organization.
@@ -56,15 +64,6 @@ Highly motivated and dedicated Android & Flutter Developer with over 4 years of 
 - [Pondy Online Supermarket](https://play.google.com/store/apps/details?id=...)
 - [SS MultiService](https://play.google.com/store/apps/details?id=...)
 - [Exfresho](https://play.google.com/store/apps/details?id=...)
-
----
-
-## 📊 GitHub Stats
-
-![TarunPal3551's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunPal3551&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunPal3551&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunPal3551&theme=radical)
 
 ---
 
