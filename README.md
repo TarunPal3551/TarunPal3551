@@ -18,6 +18,18 @@
 
 ---
 
+## 🚀 Play Store Apps
+- [Apna Billbook](https://play.google.com/store/apps/details?id=...)
+- [Diksha](https://play.google.com/store/apps/details?id=...)
+- [TFD - The Fuel Delivery](https://play.google.com/store/apps/details?id=...)
+- [Diksha Learning](https://play.google.com/store/apps/details?id=...)
+- [Tara](https://play.google.com/store/apps/details?id=...)
+- [Indepay Payment SDK](https://play.google.com/store/apps/details?id=...)
+- [ALL4U](https://play.google.com/store/apps/details?id=...)
+- [Pondy Online Supermarket](https://play.google.com/store/apps/details?id=...)
+- [SS MultiService](https://play.google.com/store/apps/details?id=...)
+- [Exfresho](https://play.google.com/store/apps/details?id=...)
+
 ## 🛠️ Skills and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -45,19 +57,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPal3551&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunPal3551&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TarunPal3551&theme=radical)
-
----
-## 🚀 Play Store Apps
-- [Diksha](https://play.google.com/store/apps/details?id=...)
-- [Diksha Learning](https://play.google.com/store/apps/details?id=...)
-- [Tara](https://play.google.com/store/apps/details?id=...)
-- [Indepay Payment SDK](https://play.google.com/store/apps/details?id=...)
-- [TFD - The Fuel Delivery](https://play.google.com/store/apps/details?id=...)
-- [Apna Billbook](https://play.google.com/store/apps/details?id=...)
-- [ALL4U](https://play.google.com/store/apps/details?id=...)
-- [Pondy Online Supermarket](https://play.google.com/store/apps/details?id=...)
-- [SS MultiService](https://play.google.com/store/apps/details?id=...)
-- [Exfresho](https://play.google.com/store/apps/details?id=...)
 
 ---
 ## 🌟 Career Objective
