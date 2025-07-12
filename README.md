@@ -19,16 +19,16 @@
 ---
 
 ## 🚀 Play Store Apps
-- [Apna Billbook](https://play.google.com/store/apps/details?id=...)
-- [Diksha](https://play.google.com/store/apps/details?id=...)
-- [TFD - The Fuel Delivery](https://play.google.com/store/apps/details?id=...)
-- [Diksha Learning](https://play.google.com/store/apps/details?id=...)
-- [Tara](https://play.google.com/store/apps/details?id=...)
-- [Indepay Payment SDK](https://play.google.com/store/apps/details?id=...)
-- [ALL4U](https://play.google.com/store/apps/details?id=...)
-- [Pondy Online Supermarket](https://play.google.com/store/apps/details?id=...)
-- [SS MultiService](https://play.google.com/store/apps/details?id=...)
-- [Exfresho](https://play.google.com/store/apps/details?id=...)
+- [Apna Billbook](https://play.google.com/store/apps/details?id=app.apnabillbook.com)
+- [Diksha](https://play.google.com/store/apps/details?id=in.gov.diksha.app&hl=en_IN)
+- [TFD - The Fuel Delivery](https://play.google.com/store/apps/details?id=com.ssoftwares.tfd)
+- [Diksha Learning](https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id=com.lms.diksha)
+- [Tara](https://play.google.com/store/apps/details?id=app.tara)
+- [Indepay Payment SDK](https://play.google.com/store/apps/details?id=com.indepay.sdktest&hl=en_IN)
+- [ALL4U](https://play.google.com/store/apps/details?id=com.ssoftwares.all4u&hl=en_IN)
+- [ALL4U-Vendor](https://play.google.com/store/apps/details?id=com.all4u.provider&hl=en_IN)
+- [Pondy Online Supermarket](https://play.google.com/store/apps/details?id=com.akgsinfotech.gracesupermarket&hl=en_IN)
+- [SS MultiService]([https://play.google.com/store/apps/details?id=...](https://webel.io/))
 - & Many more 
 
 ## 🛠️ Skills and Tools
