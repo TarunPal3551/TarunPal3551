@@ -22,7 +22,7 @@
 - [Apna Billbook](https://play.google.com/store/apps/details?id=app.apnabillbook.com)
 - [Diksha](https://play.google.com/store/apps/details?id=in.gov.diksha.app&hl=en_IN)
 - [TFD - The Fuel Delivery](https://play.google.com/store/apps/details?id=com.ssoftwares.tfd)
-- [Diksha Learning](https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id=com.lms.diksha)
+- [Diksha Learning](https://play.google.com/store/apps/details?id=com.lms.diksha)
 - [Tara](https://play.google.com/store/apps/details?id=app.tara)
 - [Indepay Payment SDK](https://play.google.com/store/apps/details?id=com.indepay.sdktest&hl=en_IN)
 - [ALL4U](https://play.google.com/store/apps/details?id=com.ssoftwares.all4u&hl=en_IN)
